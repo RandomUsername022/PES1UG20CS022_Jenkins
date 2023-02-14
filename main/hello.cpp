@@ -7,5 +7,6 @@ int main(void) {
 	cout << "Hello, World\n";
 	cout << "Hello, Jenkins\n";
 	cout << "I have successfully built and run\n";
+	cout << "This is a changed file which was automatically built!\n";
 	return 0;
 }
